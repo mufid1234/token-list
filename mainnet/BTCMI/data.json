@@ -1,1 +1,7 @@
-
+{
+  "chainId": 143,
+  "address": "0x188296783050F858662D4bCf02b95f3DC27e0bfB",
+  "name": "BTC Mon-Inu",
+  "symbol": "BTCMI",
+  "decimals": 18
+}
